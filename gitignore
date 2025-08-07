@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# Flask/Logs
+*.log
+instance/
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# PyCharm
+.idea/
+
+# Data
+*.csv
+*.h5
+*.npy
+*.npz
+
+# Models
+*.pkl
+*.joblib
+*.hdf5
+
+# Cache
+*.cache/
+.cache/
